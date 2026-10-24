@@ -1,0 +1,7 @@
+{
+  "name": "Retention Studio",
+  "dataColors": ["#087F8C", "#E76F51", "#6674CC", "#E9B44C", "#2D6A4F", "#8B5CF6", "#38BDF8", "#A6ADBB"],
+  "background": "#F1F5F9",
+  "foreground": "#172B4D",
+  "tableAccent": "#087F8C"
+}
