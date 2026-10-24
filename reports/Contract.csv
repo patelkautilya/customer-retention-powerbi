@@ -1,0 +1,4 @@
+Contract,customers,churned_customers,churned_monthly_charges,churn_rate
+Month-to-month,3875,1655,120847.1,0.4270967741935484
+One year,1473,166,14118.45,0.11269517990495587
+Two year,1695,48,4165.3,0.02831858407079646

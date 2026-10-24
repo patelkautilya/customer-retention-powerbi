@@ -1,0 +1,8 @@
+Churn Rate = DIVIDE(SUM(customers[Churned Customers]), SUM(customers[Customer Count]))
+// Format: Percentage, two decimal places
+
+Avg Monthly Charge = AVERAGE(customers[MonthlyCharges])
+// Format: Decimal number, two decimal places; currency not assumed.
+
+// Other KPI cards sum the Power Query columns Customer Count,
+// Churned Customers, Active Customers, and Churned Monthly Charges.

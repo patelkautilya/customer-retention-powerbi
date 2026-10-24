@@ -1,0 +1,4 @@
+TechSupport,customers,churned_customers,churned_monthly_charges,churn_rate
+No,3473,1446,110709.8,0.4163547365390153
+No internet service,1526,113,2301.6,0.07404980340760157
+Yes,2044,310,26119.45,0.15166340508806261

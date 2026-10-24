@@ -1,0 +1,10 @@
+{
+  "customers": 7043,
+  "churned_customers": 1869,
+  "active_customers": 5174,
+  "churn_rate": 0.2653698707936959,
+  "average_monthly_charges": 64.76169246059918,
+  "churned_monthly_charges": 139130.84999999998,
+  "missing_total_charges": 11,
+  "source_sha256": "16320c9c1ec72448db59aa0a26a0b95401046bef5d02fd3aeb906448e3055e91"
+}
